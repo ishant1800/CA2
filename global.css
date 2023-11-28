@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    
+    --font-inter: Inter;
+    --font-irish-grover: "Irish Grover";
+  
+    --font-size-5xl: 24px;
+  
+    --color-white: #fff;
+    --color-steelblue: #088ac1;
+  
+    --br-mini: 15px;
+  }
